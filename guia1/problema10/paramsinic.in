@@ -1,0 +1,35 @@
+ &parametrosinic1
+ x0 = 0.0e0
+ y0 = 0.0e0
+ ang = 30.e0
+ v0 = 1.e0
+ /
+
+ &parametrosinic2
+ x0 = 0.0e0
+ y0 = 0.0e0
+ ang = 45.e0
+ v0 = 1.e0
+ /
+
+ &parametrosinic3
+ x0 = 0.0e0
+ y0 = 0.0e0
+ ang = 60.e0
+ v0 = 1.e0
+ /
+
+&parametrosinic4
+ x0 = 0.0e0
+ y0 = 0.0e0
+ ang = 90.e0
+ v0 = 1.e0
+ /
+
+
+
+
+
+
+
+
