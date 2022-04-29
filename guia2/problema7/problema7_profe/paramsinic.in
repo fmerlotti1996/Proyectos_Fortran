@@ -1,0 +1,6 @@
+ &parametrosinic
+ x0 = 1.0e0
+ epsilx = 1.0e-9
+ epsily = 1.0e-9
+ M  = 3.0e0
+ /
